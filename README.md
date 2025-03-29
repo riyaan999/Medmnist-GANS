@@ -121,10 +121,6 @@ Example outputs are saved in the `results/` folder.
 
 ---
 
-## **Contributors**
-- **[Your Name]** - Model Implementation & Training
-- **[Contributor Name]** - Data Preprocessing & Evaluation
-- **[Contributor Name]** - Documentation & Deployment
 
 For any queries, feel free to raise an issue or contribute to this repository!
 
