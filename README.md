@@ -1,4 +1,4 @@
-# ChestMNIST-Image-Generation-GANs
+# MedMNIST-Image-Generation-GANs
 
 ### **Image Generation using LSGAN, WGAN, and WGAN-GP**  
 
